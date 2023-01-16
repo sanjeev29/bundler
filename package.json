@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "babel-traverse": "^6.26.0",
-    "babylon": "^6.18.0"
+    "babel-traverse": "^6.26.0"
+  },
+  "devDependencies": {
+    "@babel/parser": "^7.20.7"
   }
 }
